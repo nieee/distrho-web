@@ -24,7 +24,7 @@ include dirname(__FILE__) . DIRECTORY_SEPARATOR . "inc_header.php";
   <aside class="homeAside">
     <h2>Recent <span>News</span></h2>
     <!-- .news -->
-    <ul class="newss">
+    <ul class="news">
       <li>
         <figure><strong>18 May</strong><p>2012<p></figure>
         <h3>New release pack</h3>
