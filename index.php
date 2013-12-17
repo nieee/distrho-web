@@ -22,7 +22,7 @@ include dirname(__FILE__) . DIRECTORY_SEPARATOR . "inc_header.php";
 <div class="main-box"><div class="container"><div class="inside"><div class="wrapper">
   <!-- aside -->
   <aside class="homeAside">
-    <h2>Recent <span>News</span></h2>
+    <h2>Recent <span>novo teste-News</span></h2>
     <!-- .news -->
     <ul class="news">
       <li>
